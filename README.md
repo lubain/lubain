@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋🏼 Hello! I'm Fadhel Lubain
 
-<!--
-**lubain/lubain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer specializing in **Web Development** and **AI**. With a love for crafting quality code, I prioritize **performance**, **maintainability**, and **user experience**. 🌟
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages**: Python, JavaScript, TypeScript
+- **Frameworks**: FastAPI, React, Node.js, Express, Nest
+- **Tools**: Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Featured Projects
+- **[CoreGateway-Microservices](https://github.com/lubain/CoreGateway-Microservices)**: A microservices architecture that enhances modularity and performance.
+- **[Speech-to-Text](https://github.com/lubain/speech-to-text)**: An AI project that converts spoken language Malgache into text.
+
+## 📧 Contact Me
+- Email: [fadhelubain@gmail.com](mailto:fadhelubain@gmail.com)
+- LinkedIn: [Fadhel Lubain](https://www.linkedin.com/in/zafindramanga-lubain-fadhel/)
+- Portfolio: [My Portfolio](https://lubain-fadhel.netlify.app/)
+
+I love coding remotely and collaborating with fellow developers! 🖥️💻✨
