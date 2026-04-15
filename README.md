@@ -3,7 +3,7 @@
 I'm a passionate developer specializing in **Web Development** and **AI**. With a love for crafting quality code, I prioritize **performance**, **maintainability**, and **user experience**. 🌟
 
 ## Skills
-- **Languages**: Python, JavaScript, TypeScript, Java
+- **Languages**: Python, JavaScript, TypeScript, Java, C, C#
 - **Frameworks**: FastAPI, React, Node.js, Express, Nest
 - **Tools**: Docker, Postman
 
