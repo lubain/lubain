@@ -1,4 +1,4 @@
-# 👋🏼 Hello! I'm Fadhel Lubain
+# 👋🏼 Hello! I'm Lubain Fadhel ZAFINDRAMANGA
 
 I'm a passionate developer specializing in **Web Development** and **AI**. With a love for crafting quality code, I prioritize **performance**, **maintainability**, and **user experience**. 🌟
 
