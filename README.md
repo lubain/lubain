@@ -6,7 +6,7 @@ I'm a passionate developer specializing in **Web Development** and **AI**. With 
 
 - **Languages**: Python, JavaScript, TypeScript, Java, C, C#
 - **Frameworks**: FastAPI, PyTorch, React, Node.js, Express, Nest
-- **Tools**: Docker, Postman, Git
+- **Tools**: Docker, Postman, Git / GitHub
 
 ## Featured Projects
 
