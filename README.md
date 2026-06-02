@@ -14,8 +14,8 @@
 ## About Me
 
 - Full-Stack developer specializing in **Web Development** and **AI / ML**
-- Building scalable APIs with **FastAPI** and intelligent apps with **PyTorch**
-- Crafting modern UIs with **React**, **TypeScript** and **Node.js**
+- Building scalable APIs with **Nest.js** and **FastAPI**
+- Crafting modern UIs with **React**, **TypeScript** and **Next.js**
 - I prioritize **performance**, **maintainability**, and **user experience**
 ---
 
