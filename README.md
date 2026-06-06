@@ -62,7 +62,7 @@
 <div align="center">
 
 <!-- Streak stats — instance alternative stable -->
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=lubain&theme=tokyonight&hide_border=true)](https://github.com/lubain)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=lubain&theme=tokyonight&hide_border=true)](https://github.com/lubain_)
 
 <!-- Activity Graph — alternative fiable aux stats cards -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lubain&theme=tokyo-night&hide_border=true)](https://github.com/lubain)
